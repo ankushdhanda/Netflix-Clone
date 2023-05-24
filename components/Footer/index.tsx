@@ -8,7 +8,7 @@ export default function Footer() {
       <p>
         Made by{' '}
         <a href='https://github.com/ayushiee' target='_blank' rel='noreferrer'>
-          <b>Ayushi Gupta</b>
+          <b>ANKUSH</b>
         </a>
       </p>
       <div>
